@@ -3,3 +3,6 @@ def sum(a,b):
 
 def bbio(a,c):
     return a//c
+
+def a(g,h):
+    return g, h
