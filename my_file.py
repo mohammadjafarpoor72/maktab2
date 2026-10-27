@@ -1,7 +1,7 @@
 def sum(a,b):
     return a+b
 
-def bbio(a,c):
+def bland(a,c):
     return a//c
 
 def a(g,h):
