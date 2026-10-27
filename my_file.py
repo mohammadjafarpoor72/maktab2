@@ -4,5 +4,5 @@ def sum(a,b):
 def bland(a,c):
     return a//c
 
-def a(g,h):
+def azhdarkhahn(g,h):
     return g, h
